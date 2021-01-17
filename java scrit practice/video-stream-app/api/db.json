@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Parental advice trump 2020 edited",
+      "description": "the best US president",
+      "id": 4
+    },
+    {
+      "description": "trump is going to be president come 2020",
+      "title": "Wise Americans vote. Trump",
+      "userId": "103912819801312090035",
+      "id": 5
+    },
+    {
+      "description": "trump is going to be president come 2020",
+      "title": "Wise Americans vote. Trump",
+      "userId": "103912819801312090035",
+      "id": 6
+    }
+  ]
+}
